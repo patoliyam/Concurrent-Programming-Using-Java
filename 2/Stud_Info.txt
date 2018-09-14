@@ -1,0 +1,6 @@
+Roll,Name,Email,Marks,LastEditor
+71,shubze,shubzd@iitg.ac.in,50,ta1
+72,shubzd,shubze@iitg.ac.in,50,ta1
+73,shubza,shubza@iitg.ac.in,50,ta1
+74,shubzb,shubzb@iitg.ac.in,50,ta1
+75,shubzc,shubzc@iitg.ac.in,50,ta1
